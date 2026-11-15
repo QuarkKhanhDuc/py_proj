@@ -36,3 +36,11 @@ Run the program using:
 
 python main.py
 
+
+
+\## Development
+
+
+
+This project also demonstrates Git branching and merging.
+
